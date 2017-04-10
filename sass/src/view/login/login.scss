@@ -1,0 +1,31 @@
+.login-window{
+    &.x-window-default {
+        border: none;
+        border-radius: 0;
+        padding: 0;
+    }
+}
+
+.login-form-label{
+  font-size: 14px;
+  line-height: 54px;
+  font-weight: bold;
+}
+
+.login-field-body{
+  
+  width: 282px;
+}
+
+.login-form-input{
+  height: 54px;
+  padding: 0px 26px;
+  border-width: 1px;
+  background-color: #343d4c;
+  color: white;
+}
+
+.login-form-input:focus{
+  border-color: #4e91e3;
+  background-color: #161927;
+}
