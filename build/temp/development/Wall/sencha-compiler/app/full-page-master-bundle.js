@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\phpStudy\WWW\Wall\app.js
+// @require C:\Users\Administrator\Desktop\cws-wall\app.js

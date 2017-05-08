@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'Wall' );
-$image-search-path: 'C:/phpStudy/WWW/Wall/build/development/Wall/resources';
+$image-search-path: 'C:/Users/Administrator/Desktop/cws-wall/build/development/Wall/resources';
 $theme-name:  dynamic( 'theme-triton' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
@@ -989,7 +989,7 @@ $include-ext-window-toast: dynamic(true);;
 $include-ext-window-window: dynamic(true);;
 $include-wall-application: dynamic(true);;
 $include-wall-controller-root: dynamic(true);;
-$include-wall-store-personnel: dynamic(true);;
+$include-wall-store-screen: dynamic(true);;
 $include-wall-view-login-login: dynamic(true);;
 $include-wall-view-login-logincontroller: dynamic(true);;
 $include-wall-view-login-loginmodel: dynamic(true);;

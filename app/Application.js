@@ -11,6 +11,6 @@ Ext.define('Wall.Application', {
     view: 'Wall.view.main.Main',
     
     controllers: [
-        // 'Root@Wall.controller'
+        'Root@Wall.controller'
     ]
 });
